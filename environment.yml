@@ -7,4 +7,3 @@ dependencies:
   - ipykernel
   - numpy
   - matplotlib
-prefix: /srv/conda/envs/test_env
